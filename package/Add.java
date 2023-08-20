@@ -2,6 +2,7 @@ package mypack;
 import java.util.Scanner;
 
 public class Add{
+  
   public void sum(){
 
     System.out.println("Enter the first number : ");
